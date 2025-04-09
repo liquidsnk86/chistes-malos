@@ -1,0 +1,84 @@
+{
+  "chistes": [
+     {
+      "id": 1,
+      "chiste": "¿Por qué los programadores confunden Halloween con Navidad? Porque OCT 31 = DEC 25."
+    },
+    {
+      "id": 2,
+      "chiste": "¿Cómo saludan los programadores? Hola Mundo."
+    },
+    {
+      "id": 3,
+      "chiste": "¿Qué le dijo un bit al otro? Nos vemos en el bus."
+    },
+    {
+      "id": 4,
+      "chiste": "—¿Cuál es el lenguaje favorito de los piratas? —¡Arrrrrrr-gumentos!"
+    },
+    {
+      "id": 5,
+      "chiste": "¿Qué hace un programador después de una ruptura amorosa? Git push --force y a seguir adelante."
+    },
+    {
+      "id": 6,
+      "chiste": "¿Cómo se llama un gato programador? Meow.js"
+    },
+    {
+      "id": 7,
+      "chiste": "¿Por qué el programador fue al terapeuta? Porque tenía problemas con sus padres... (padres e hijos en programación, obvio)."
+    },
+    {
+      "id": 8,
+      "chiste": "¿Por qué nadie invita a los programadores a fiestas? Porque siempre están en bucle."
+    },
+    {
+      "id": 9,
+      "chiste": "¿Qué hace un backend en una fiesta? Espera a que lo llamen."
+    },
+    {
+      "id": 10,
+      "chiste": "¿Cómo termina una función triste? return triste;"
+    },
+    {
+      "id": 11,
+      "chiste": "¿Qué le dice Java a JavaScript? —¡Deja de decir que somos lo mismo!"
+    },
+    {
+      "id": 12,
+      "chiste": "¿Por qué el programador cruzó la calle? Porque vio un cartel que decía 'Hello, World!' del otro lado."
+    },
+    {
+      "id": 13,
+      "chiste": "Error 404: Chiste no encontrado."
+    },
+    {
+      "id": 14,
+      "chiste": "¿Cuántos programadores se necesitan para cambiar una bombilla? Ninguno, eso es un problema de hardware."
+    },
+    {
+      "id": 15,
+      "chiste": "¿Qué hace un programador cuando tiene hambre? Se pide un booleanesa."
+    },
+    {
+      "id": 16,
+      "chiste": "¿Por qué el código rompió con su pareja? Porque tenía demasiadas dependencias."
+    },
+    {
+      "id": 17,
+      "chiste": "¿Qué hace un while en una relación? Se queda hasta que la condición cambie."
+    },
+    {
+      "id": 18,
+      "chiste": "Estás tan fuera de contexto como una variable global en una función recursiva."
+    },
+    {
+      "id": 19,
+      "chiste": "Un segfault entra a un bar... espera, no debería estar aquí."
+    },
+    {
+      "id": 20,
+      "chiste": "¿Por qué los arrays nunca se deprimen? Porque siempre tienen un índice para salir adelante."
+    }
+  ]
+}
